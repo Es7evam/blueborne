@@ -14,13 +14,13 @@ Operating bluetooth adapter
 Run the following commands as root
 ```
 git clone https://github.com/GANESH-ICMC/blueborne
-cd bluebourne/
+cd blueborne/
 chmod u+x install.sh
 ./install.sh
 ```
 
 ## Usage
-Into the dir that bluebourne was installed use the command
+Into the dir that blueborne was installed use the command
 ```
 python bluebornescan.py
 ```
@@ -30,7 +30,7 @@ The rest of it will be guided by the proram interface.
 ## Authors
 
 * **Rodrigo Bernardi** - *Modifications and fixes to original scripts* - [rhobernardi](https://github.com/rhobernardi)
-* **Estevam Arantes** - *Installing script and documentation* - [Es7evam](https://github.com/rhobernardi)
+* **Estevam Arantes** - *Installing script and documentation* - [Es7evam](https://github.com/Es7evam)
 
 See also the list of [contributors](https://github.com/GANESH-ICMC/blueborne/contributors) who participated in this project.
 
