@@ -15,7 +15,7 @@ Run the following commands as root
 ```
 git clone https://github.com/GANESH-ICMC/blueborne
 cd blueborne/
-chmod u+x install.sh
+chmod +x install.sh
 ./install.sh
 ```
 
@@ -24,7 +24,7 @@ Into the dir that blueborne was installed use the command
 ```
 python bluebornescan.py
 ```
-The rest of it will be guided by the proram interface.
+The rest of it will be guided by the program interface.
 
 
 ## Authors
